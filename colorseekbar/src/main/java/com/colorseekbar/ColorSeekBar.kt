@@ -1,13 +1,13 @@
-package com.divyanshu.colorseekbar
+package com.colorseekbar
 
 import android.content.Context
 import android.content.res.Resources
 import android.graphics.*
 import android.util.AttributeSet
-import android.util.Log
 import android.view.MotionEvent
 import android.view.View
 import androidx.annotation.ArrayRes
+import com.divyanshu.colorseekbar.R
 
 
 class ColorSeekBar(context: Context, attributeSet: AttributeSet): View(context, attributeSet){

@@ -3,7 +3,7 @@ package com.colorseekbardemo
 import android.os.Bundle
 import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity
-import com.divyanshu.colorseekbar.ColorSeekBar
+import com.colorseekbar.ColorSeekBar
 import kotlinx.android.synthetic.main.activity_main.*
 
 

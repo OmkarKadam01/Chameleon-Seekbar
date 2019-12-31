@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:text="TextView" />
-    <com.divyanshu.colorseekbar.ColorSeekBar
+    <com.colorseekbar.ColorSeekBar
         android:id="@+id/color_seek_bar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
