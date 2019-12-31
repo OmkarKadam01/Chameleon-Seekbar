@@ -1,5 +1,9 @@
-# Chameleon-Seekbar [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-ColorSeekBar-green.svg?style=flat )]( https://android-arsenal.com/details/1/7095 ) [ ![Download](https://api.bintray.com/packages/divyanshub024/maven/colorseekbar/images/download.svg) ](https://bintray.com/divyanshub024/maven/colorseekbar/_latestVersion)
-A color picker seekbar for android.
+# Chameleon-Seekbar
+A Chameleon picker seekbar for android.
+
+Its extended version of color picker library by Divyanshu
+
+URL : https://github.com/divyanshub024/ColorSeekBar
 
 <img src = "https://github.com/OmkarKadam01/Chameleon-Seekbar/blob/master/Art/seekbar.gif" />
 
