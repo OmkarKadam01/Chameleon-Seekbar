@@ -1,5 +1,5 @@
 # Chameleon-Seekbar
-A Chameleon picker seekbar for android.
+A Custom seekbar for android.
 
 <img src = "https://github.com/OmkarKadam01/Chameleon-Seekbar/blob/master/Art/seekbar.gif" />
 
