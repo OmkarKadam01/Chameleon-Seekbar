@@ -1,10 +1,6 @@
 # Chameleon-Seekbar
 A Chameleon picker seekbar for android.
 
-Its extended version of color picker library by Divyanshu
-
-URL : https://github.com/divyanshub024/ColorSeekBar
-
 <img src = "https://github.com/OmkarKadam01/Chameleon-Seekbar/blob/master/Art/seekbar.gif" />
 
 
@@ -62,4 +58,8 @@ URL : https://github.com/divyanshub024/ColorSeekBar
         })
 ```
 
+
+Its extended version of color picker library by Divyanshu
+
+URL : https://github.com/divyanshub024/ColorSeekBar
 
